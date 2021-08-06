@@ -1,0 +1,36 @@
+"users":{
+    {
+        "name":"shashank Soni",
+        "email":"shashank@gmail.com",
+        "password":"123456"
+    }
+},
+"profile":{
+    {   
+        "company":"Shashank Media",
+        "status":"Senior Developer",
+        "skills":"HTML,CSS, Javascript,",
+        "location":"Mandle, MP",
+        "bio":"I am a senior Developer",
+        "githubusername":"shashanksoni61",
+        "twitter":"http://twitter.com/shashanksoni61",
+        "instagram":"http://instagram.com/shashanksoni61",
+        "facebook":"http://facebook.com/shashanksoni61"
+    },
+    "experience":[
+        "title":"Senior Developer",
+        "company": "Shashank Media",
+        "location":"Mandla , MP",
+        "from":"12-5-2021",
+        "current":true,
+        "description":"Creating Projects"
+    ],
+    "education":{
+        "school":"Saraswati School mandla",
+        "degree": "Demo",
+        "fieldofstudy":"Science Maths",
+        "from":"07-01-2013",
+        "to":"06-12-2015",
+        "description":"learned basic Science and Mathematics"
+    }
+}
